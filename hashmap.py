@@ -6,7 +6,7 @@
 """
 from collections import namedtuple
 
-__author__ = ['Dharmendra Hingu (dph7305@g.rit.edu)', 'Kushal Gevaria (kgg5247@g,rit.edu']
+__author__ = ['Dharmendra Hingu (dph7305@g.rit.edu)']
 
 Entry = namedtuple('Entry', ('key', 'value'))
 '''
